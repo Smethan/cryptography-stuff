@@ -1,0 +1,10 @@
+my cipher just takes each character, uses the next letter of the alphabet in its place
+"I love cryptography!"
+"J mpwf dszquphsbqiz!"
+"I love cryptography!"
+now I could do this in code, but I dont want to make an array of every single letter in the alphabet
+
+as for the big data breach of our era I will be talking about the biggest data breach we know of in recent history which is yahoo's in 2013.
+Announced in 2016, yahoo said this breachthat had happened in 2013 had put account information of over 1 billion of its users at risk.
+Later they announced the true figure was around 3 billion, and that they would "enhance their security". An investigation found that thankfully no passwords were discovered, but security questions and answers were, which poses essentially the same threat.
+We do not know what they have done to protect against it since, as they have kept it a secret, which may well be why they havent had any large breaches lately.
